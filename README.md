@@ -12,3 +12,5 @@ again
 test again
 ????
 sdsdfsd
+
+This test enable cache
