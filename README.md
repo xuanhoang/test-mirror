@@ -7,3 +7,4 @@ check hook is working?
 test debug
 check again
 check again
+check again
