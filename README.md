@@ -19,3 +19,4 @@ change back to 3000
 test again
 change to 80
 Post receive setting
+test protected brand
