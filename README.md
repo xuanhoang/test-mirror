@@ -21,3 +21,4 @@ change to 80
 Post receive setting
 test protected brand
 Hoang
+protected feature 1
