@@ -23,3 +23,4 @@ test protected brand
 Hoang
 protected master
 add #closed
+close 2
