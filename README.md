@@ -22,3 +22,4 @@ Post receive setting
 test protected brand
 Hoang
 protected master
+add #closed
